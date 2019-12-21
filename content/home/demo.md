@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Academic Kickstart"
+title = "Welcome to Dev's Law Firm"
 subtitle = ""
 
 [design]
@@ -25,8 +25,8 @@ subtitle = ""
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "Black"
-  gradient_end = "Black"
+  # gradient_start = "Black"
+  # gradient_end = "Black"
   
   # Background image.
   # image = "image.jpg"  # Name of image in `static/img/`.
